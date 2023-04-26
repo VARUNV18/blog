@@ -1,1 +1,0 @@
-Creating a blog spot where user can upload, edit and delete their blogs.
